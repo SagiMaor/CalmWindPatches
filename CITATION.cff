@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+title: "CalmWindPatches: Detection and analysis of oceanic calm-wind patches"
+
+type: software
+
+authors:
+  - family-names: "Maor"
+    given-names: "Sagi"
+
+version: 1.0.0
+
+repository-code: "https://github.com/SagiMaor/CalmWindPatches"
+
+license: MIT
+
+abstract: >
+  Python code for the detection, tracking, characterization, and analysis
+  of oceanic calm-wind patches using AMSR2 satellite observations and
+  ERA5 reanalysis. The repository includes data-processing scripts and
+  scripts used to generate the analyses and figures associated with the
+  study.
